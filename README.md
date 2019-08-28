@@ -2,7 +2,7 @@
 
 <img src="screenshot/screenshot1.png">
 
-# Getting Started
+# :information_source: Getting Started
 
 Create virtual environment.
 
