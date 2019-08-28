@@ -1,6 +1,6 @@
 # :book: kivy-hello-world
 
-<img src="screnshot/screenshot.png">
+<img src="screnshot/screenshot1.png">
 
 # :exclamation: Issues Encountered
 
