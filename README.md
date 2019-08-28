@@ -2,6 +2,20 @@
 
 <img src="screenshot/screenshot1.png">
 
+# Getting Started
+
+Create virtual environment.
+
+```bash
+virtualenv env
+```
+
+Install all dependencies in `requirements.txt`.
+
+```bash
+pip install -r requirements.txt
+```
+
 # :exclamation: Issues Encountered
 
 ### Module error: ImportError: DLL load failed
